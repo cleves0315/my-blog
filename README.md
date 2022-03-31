@@ -1,2 +1,3 @@
-# my-blog
-🧃 My blog
+# 🧃 my-blog
+
+🏖 做一个日常学习的记录，范围不限
