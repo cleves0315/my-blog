@@ -9,3 +9,4 @@
   - [344. 反转字符串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/344.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
   - [561. 数组拆分 I](https://github.com/cleves0315/my-blog/blob/main/LeetCode/561.%20%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86%20I.md)
   - [167. 两数之和 II - 输入有序数组](https://github.com/cleves0315/my-blog/blob/main/LeetCode/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+  - [27. 移除元素](https://github.com/cleves0315/my-blog/blob/main/LeetCode/27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
