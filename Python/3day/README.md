@@ -1,3 +1,24 @@
 # 第二天
 
-- slice（切片）
+- slice(切片)
+  - 作用：来截取列表数据，类似 slice
+  - 写法：list[0:3] 或 list[:3] 不写数字默认为 0, 可以负数
+  - 第三个数字：list[:7:2] 表示隔两位数截取
+- 迭代器
+  - 作用：用 for in 遍历 list 列表或者 dict
+  - 写法：for x in [1, 2, 3]、for key in {'name': 'xiaoming'}
+  - 遍历 key+value: 类型为 list、tuple 时，使用 enumerate(list)可以遍历 key 和 value
+  - 遍历 key+value: 类型为 dict 时，使用 obj.items()可以遍历 key 和 value
+  - 判断变量是否能被遍历：isinstnace(x, Iterable)), Iterable 类型要先从模块引用
+- 列表生成器
+  - 作用：可以快速生成一个自定义列表
+  - 写法：[x for x in range(1, 11)]
+  - 添加过滤条件：[x for x in range(1, 11) if x > 1]
+  - 添加筛选条件：[x if (x > 1) else -x for x in range(1, 11)]
+- 生成器
+  - 作用：生成一个类似 list 列表，每次通过调用 next(L)方式按顺序获取一个值
+  - 写法：(x for x in range(1, 11)) 列表生成器外边更换为'()'
+  - 通过函数方式实现：在函数体内使用 yield 关键字
+  - 获取值：next(L)，或 for x in L
+  - 判断类型：isinstance(x, Iterator)
+  - '列表生成器'类型转换'生成器'：a = iter(L), L 为 Iterable

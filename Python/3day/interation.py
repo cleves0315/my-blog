@@ -22,6 +22,9 @@ print('\n==============\n')
 for key, val in enumerate(['a', 'b', 'c']):
     print('for key, val in enumerate([1, 2, 3]): ', key, val)
 
+for key, val in obj.items():
+    print('for key, val in obj.items(): ', key, val)
+
 print('\n==============\n')
 
 # 判断是否可迭代
