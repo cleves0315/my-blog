@@ -21,3 +21,4 @@
   - [118. 杨辉三角](https://github.com/cleves0315/my-blog/blob/main/LeetCode/118.%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md)
   - [557. 反转字符串中的单词 III](https://github.com/cleves0315/my-blog/blob/main/LeetCode/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.md)
   - [153. 寻找旋转排序数组中的最小值](https://github.com/cleves0315/my-blog/blob/main/LeetCode/153.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md)
+  - [26. 删除有序数组中的重复项](https://github.com/cleves0315/my-blog/blob/main/LeetCode/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
