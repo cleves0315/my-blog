@@ -31,6 +31,7 @@ print("sorted(['a', 's', 'd', 'A', 'B'], key=str.lower): ", sorted(['a', 's', 'd
 
 print('\n')
 
+
 # 练习：请用sorted()对下述列表分别按名字排序：
 
 print('练习：请用sorted()对下述列表分别按名字排序：')
