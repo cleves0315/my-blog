@@ -25,17 +25,6 @@ print('reduce(add, [1, 2, 3, 4, 5]): ', reduce(add, [1, 2, 3, 4, 5]))
 print('\n')
 
 
-# filter
-
-def is_odd(x):
-    return x % 2 == 1
-
-
-print('filter(is_odd, [1, 2, 3, 4, 5, 6]): ',
-      list(filter(is_odd, [1, 2, 3, 4, 5, 6])))
-
-print('\n')
-
 # 练习
 # 利用map()函数，把用户输入的不规范的英文名字，变为首字母大写，
 # 其他小写的规范名字。输入：['adam', 'LISA', 'barT']，输出：['Adam', 'Lisa', 'Bart']
