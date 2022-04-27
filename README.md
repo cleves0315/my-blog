@@ -27,3 +27,6 @@
   - [283. 移动零](https://github.com/cleves0315/my-blog/blob/main/LeetCode/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
   - [122. 买卖股票的最佳时机 II](https://github.com/cleves0315/my-blog/blob/main/LeetCode/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
   - [217. 存在重复元素](https://github.com/cleves0315/my-blog/blob/main/LeetCode/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
+  - [122. 买卖股票的最佳时机 II](https://github.com/cleves0315/my-blog/blob/main/LeetCode/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
+  - [189. 轮转数组](https://github.com/cleves0315/my-blog/blob/main/LeetCode/189.%20%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%BB%84.md)
+  - [66. 加一](https://github.com/cleves0315/my-blog/blob/main/LeetCode/66.%20%E5%8A%A0%E4%B8%80.md)
