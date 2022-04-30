@@ -32,4 +32,4 @@
   - [66. 加一](https://github.com/cleves0315/my-blog/blob/main/LeetCode/66.%20%E5%8A%A0%E4%B8%80.md)
   - [136. 只出现一次的数字](https://github.com/cleves0315/my-blog/blob/main/LeetCode/136.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
   - [350. 两个数组的交集 II](https://github.com/cleves0315/my-blog/blob/main/LeetCode/350.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.md)
-  - [36. 有效的数独](https://github.com/cleves0315/my-blog/blob/main/LeetCode/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
+  - [7. 整数反转](https://github.com/cleves0315/my-blog/blob/main/LeetCode/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
