@@ -33,3 +33,6 @@
   - [136. 只出现一次的数字](https://github.com/cleves0315/my-blog/blob/main/LeetCode/136.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
   - [350. 两个数组的交集 II](https://github.com/cleves0315/my-blog/blob/main/LeetCode/350.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.md)
   - [7. 整数反转](https://github.com/cleves0315/my-blog/blob/main/LeetCode/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
+  - [937. 重新排列日志文件](https://github.com/cleves0315/my-blog/blob/main/LeetCode/937.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6.md)
+  - [242. 有效的字母异位词](https://github.com/cleves0315/my-blog/blob/main/LeetCode/242.%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
+  - [125. 验证回文串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
