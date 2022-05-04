@@ -36,3 +36,6 @@
   - [937. 重新排列日志文件](https://github.com/cleves0315/my-blog/blob/main/LeetCode/937.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6.md)
   - [242. 有效的字母异位词](https://github.com/cleves0315/my-blog/blob/main/LeetCode/242.%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
   - [125. 验证回文串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
+  - [237. 删除链表中的节点](https://github.com/cleves0315/my-blog/blob/main/LeetCode/237.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
+  - [19. 删除链表的倒数第 N 个结点](https://github.com/cleves0315/my-blog/blob/main/LeetCode/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
+  - [1823. 找出游戏的获胜者](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1823.%20%E6%89%BE%E5%87%BA%E6%B8%B8%E6%88%8F%E7%9A%84%E8%8E%B7%E8%83%9C%E8%80%85.md)
