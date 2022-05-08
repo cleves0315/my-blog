@@ -42,3 +42,4 @@
   - [1823. 找出游戏的获胜者](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1823.%20%E6%89%BE%E5%87%BA%E6%B8%B8%E6%88%8F%E7%9A%84%E8%8E%B7%E8%83%9C%E8%80%85.md)
   - [713. 乘积小于 K 的子数组](https://github.com/cleves0315/my-blog/blob/main/LeetCode/713.%20%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
   - [933. 最近的请求次数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/933.%20%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0.md)
+  - [442. 数组中重复的数据](https://github.com/cleves0315/my-blog/blob/main/LeetCode/442.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E6%8D%AE.md)
