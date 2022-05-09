@@ -43,3 +43,4 @@
   - [713. 乘积小于 K 的子数组](https://github.com/cleves0315/my-blog/blob/main/LeetCode/713.%20%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
   - [933. 最近的请求次数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/933.%20%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0.md)
   - [442. 数组中重复的数据](https://github.com/cleves0315/my-blog/blob/main/LeetCode/442.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E6%8D%AE.md)
+  - [942. 增减字符串匹配](https://github.com/cleves0315/my-blog/blob/main/LeetCode/942.%20%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D.md)
