@@ -45,3 +45,4 @@
   - [442. 数组中重复的数据](https://github.com/cleves0315/my-blog/blob/main/LeetCode/442.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E6%8D%AE.md)
   - [942. 增减字符串匹配](https://github.com/cleves0315/my-blog/blob/main/LeetCode/942.%20%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D.md)
   - [8. 字符串转换整数 (atoi)](<https://github.com/cleves0315/my-blog/blob/main/LeetCode/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md>)
+  - [38. 外观数列](https://github.com/cleves0315/my-blog/blob/main/LeetCode/38.%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md)
