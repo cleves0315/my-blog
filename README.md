@@ -46,3 +46,4 @@
   - [942. 增减字符串匹配](https://github.com/cleves0315/my-blog/blob/main/LeetCode/942.%20%E5%A2%9E%E5%87%8F%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D.md)
   - [8. 字符串转换整数 (atoi)](<https://github.com/cleves0315/my-blog/blob/main/LeetCode/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md>)
   - [38. 外观数列](https://github.com/cleves0315/my-blog/blob/main/LeetCode/38.%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md)
+  - [98. 验证二叉搜索树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/98.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
