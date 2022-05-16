@@ -52,3 +52,4 @@
   - [1305. 两棵二叉搜索树中的所有元素](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1305.%20%E4%B8%A4%E6%A3%B5%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E5%85%83%E7%B4%A0.md)
   - [102. 二叉树的层序遍历](https://github.com/cleves0315/my-blog/blob/main/LeetCode/102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md)
   - [101. 对称二叉树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/101.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+  - [面试题 04.06. 后继者](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2004.06.%20%E5%90%8E%E7%BB%A7%E8%80%85.md)
