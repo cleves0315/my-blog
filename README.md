@@ -57,3 +57,4 @@
   - [108. 将有序数组转换为二叉搜索树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/108.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
   - [462. 最少移动次数使数组元素相等 II](https://github.com/cleves0315/my-blog/blob/main/LeetCode/462.%20%E6%9C%80%E5%B0%91%E7%A7%BB%E5%8A%A8%E6%AC%A1%E6%95%B0%E4%BD%BF%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E7%9B%B8%E7%AD%89%20II.md)
   - [88. 合并两个有序数组](https://github.com/cleves0315/my-blog/blob/main/LeetCode/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+  - [961. 在长度 2N 的数组中找出重复 N 次的元素](https://github.com/cleves0315/my-blog/blob/main/LeetCode/961.%20%E5%9C%A8%E9%95%BF%E5%BA%A6%202N%20%E7%9A%84%E6%95%B0%E7%BB%84%E4%B8%AD%E6%89%BE%E5%87%BA%E9%87%8D%E5%A4%8D%20N%20%E6%AC%A1%E7%9A%84%E5%85%83%E7%B4%A0.md)
