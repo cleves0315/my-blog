@@ -63,3 +63,4 @@
   - [70. 爬楼梯](https://github.com/cleves0315/my-blog/blob/main/LeetCode/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
   - [509. 斐波那契数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/509.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.md)
   - [121. 买卖股票的最佳时机](https://github.com/cleves0315/my-blog/blob/main/LeetCode/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
+  - [965. 单值二叉树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/965.%20%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
