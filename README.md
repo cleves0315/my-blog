@@ -72,3 +72,4 @@
   - [6078. 重排字符形成目标字符串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/6078.%20%E9%87%8D%E6%8E%92%E5%AD%97%E7%AC%A6%E5%BD%A2%E6%88%90%E7%9B%AE%E6%A0%87%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
   - [905. 按奇偶排序数组](https://github.com/cleves0315/my-blog/blob/main/LeetCode/905.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
   - [412. Fizz Buzz](https://github.com/cleves0315/my-blog/blob/main/LeetCode/412.%20Fizz%20Buzz.md)
+  - [20. 有效的括号](https://github.com/cleves0315/my-blog/blob/main/LeetCode/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
