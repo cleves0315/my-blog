@@ -73,3 +73,4 @@
   - [905. 按奇偶排序数组](https://github.com/cleves0315/my-blog/blob/main/LeetCode/905.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
   - [412. Fizz Buzz](https://github.com/cleves0315/my-blog/blob/main/LeetCode/412.%20Fizz%20Buzz.md)
   - [20. 有效的括号](https://github.com/cleves0315/my-blog/blob/main/LeetCode/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+  - [929. 独特的电子邮件地址](https://github.com/cleves0315/my-blog/blob/main/LeetCode/929.%20%E7%8B%AC%E7%89%B9%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80.md)
