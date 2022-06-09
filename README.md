@@ -79,3 +79,4 @@
   - [剑指 Offer 24. 反转链表](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
   - [剑指 Offer 03. 数组中重复的数字](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E5%89%91%E6%8C%87%20Offer%2003.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
   - [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I.md)
+  - [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E5%89%91%E6%8C%87%20Offer%2053%20-%20II.%200%EF%BD%9En-1%E4%B8%AD%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md)
