@@ -89,3 +89,4 @@
   - [剑指 Offer 57. 和为s的两个数字](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E5%89%91%E6%8C%87%20Offer%2057.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)
   - [剑指 Offer 45. 把数组排成最小的数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md)
   - [1089. 复写零](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1089.%20%E5%A4%8D%E5%86%99%E9%9B%B6.md)
+  - [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E5%89%91%E6%8C%87%20Offer%2039.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
