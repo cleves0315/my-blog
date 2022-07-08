@@ -95,3 +95,4 @@
   - [1200. 最小绝对差](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1200.%20%E6%9C%80%E5%B0%8F%E7%BB%9D%E5%AF%B9%E5%B7%AE.md)
   - [729. 我的日程安排表 I](https://github.com/cleves0315/my-blog/blob/main/LeetCode/729.%20%E6%88%91%E7%9A%84%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92%E8%A1%A8%20I.md)
   - [648. 单词替换](https://github.com/cleves0315/my-blog/blob/main/LeetCode/648.%20%E5%8D%95%E8%AF%8D%E6%9B%BF%E6%8D%A2.md)
+  - [1217. 玩筹码](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1217.%20%E7%8E%A9%E7%AD%B9%E7%A0%81.md)
