@@ -99,3 +99,4 @@
   - [104. 二叉树的最大深度](https://github.com/cleves0315/my-blog/blob/main/LeetCode/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
   - [13. 罗马数字转整数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
   - [1374. 生成每种字符都是奇数个的字符串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1374.%20%E7%94%9F%E6%88%90%E6%AF%8F%E7%A7%8D%E5%AD%97%E7%AC%A6%E9%83%BD%E6%98%AF%E5%A5%87%E6%95%B0%E4%B8%AA%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+  - [1417. 重新格式化字符串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1417.%20%E9%87%8D%E6%96%B0%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
