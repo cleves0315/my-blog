@@ -102,3 +102,4 @@
   - [1417. 重新格式化字符串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1417.%20%E9%87%8D%E6%96%B0%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
   - [105. 从前序与中序遍历序列构造二叉树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
   - [106. 从中序与后序遍历序列构造二叉树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/106.%20%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+  - [1460. 通过翻转子数组使两个数组相等](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1460.%20%E9%80%9A%E8%BF%87%E7%BF%BB%E8%BD%AC%E5%AD%90%E6%95%B0%E7%BB%84%E4%BD%BF%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9B%B8%E7%AD%89.md)
