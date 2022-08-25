@@ -101,3 +101,4 @@
   - [1374. 生成每种字符都是奇数个的字符串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1374.%20%E7%94%9F%E6%88%90%E6%AF%8F%E7%A7%8D%E5%AD%97%E7%AC%A6%E9%83%BD%E6%98%AF%E5%A5%87%E6%95%B0%E4%B8%AA%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
   - [1417. 重新格式化字符串](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1417.%20%E9%87%8D%E6%96%B0%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
   - [105. 从前序与中序遍历序列构造二叉树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+  - [106. 从中序与后序遍历序列构造二叉树](https://github.com/cleves0315/my-blog/blob/main/LeetCode/106.%20%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
