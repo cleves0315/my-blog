@@ -108,3 +108,4 @@
   - [236. 二叉树的最近公共祖先](https://github.com/cleves0315/my-blog/blob/main/LeetCode/236.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
   - [297. 二叉树的序列化与反序列化](https://github.com/cleves0315/my-blog/blob/main/LeetCode/297.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
   - [80. 删除有序数组中的重复项 II](https://github.com/cleves0315/my-blog/blob/main/LeetCode/80.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md)
+  - [946. 验证栈序列](https://github.com/cleves0315/my-blog/blob/main/LeetCode/946.%20%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97.md)
