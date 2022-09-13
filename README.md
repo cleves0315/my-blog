@@ -111,3 +111,4 @@
   - [946. 验证栈序列](https://github.com/cleves0315/my-blog/blob/main/LeetCode/946.%20%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97.md)
   - [11. 盛最多水的容器](https://github.com/cleves0315/my-blog/blob/main/LeetCode/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
   - [414. 第三大的数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/414.%20%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0.md)
+  - [628. 三个数的最大乘积](https://github.com/cleves0315/my-blog/blob/main/LeetCode/628.%20%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.md)
