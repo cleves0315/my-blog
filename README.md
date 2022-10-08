@@ -125,3 +125,4 @@
 - [665. 非递减数列](https://github.com/cleves0315/my-blog/blob/main/LeetCode/665.%20%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.md)
 - [面试题 01.02. 判定是否互为字符重排](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.02.%20%E5%88%A4%E5%AE%9A%E6%98%AF%E5%90%A6%E4%BA%92%E4%B8%BA%E5%AD%97%E7%AC%A6%E9%87%8D%E6%8E%92.md)
 - [811. 子域名访问计数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/811.%20%E5%AD%90%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E8%AE%A1%E6%95%B0.md)
+- [870. 优势洗牌](https://github.com/cleves0315/my-blog/blob/main/LeetCode/870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md)
