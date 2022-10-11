@@ -126,3 +126,4 @@
 - [面试题 01.02. 判定是否互为字符重排](https://github.com/cleves0315/my-blog/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.02.%20%E5%88%A4%E5%AE%9A%E6%98%AF%E5%90%A6%E4%BA%92%E4%B8%BA%E5%AD%97%E7%AC%A6%E9%87%8D%E6%8E%92.md)
 - [811. 子域名访问计数](https://github.com/cleves0315/my-blog/blob/main/LeetCode/811.%20%E5%AD%90%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E8%AE%A1%E6%95%B0.md)
 - [870. 优势洗牌](https://github.com/cleves0315/my-blog/blob/main/LeetCode/870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md)
+- [1790. 仅执行一次字符串交换能否使两个字符串相等](https://github.com/cleves0315/my-blog/blob/main/LeetCode/1790.%20%E4%BB%85%E6%89%A7%E8%A1%8C%E4%B8%80%E6%AC%A1%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%BA%A4%E6%8D%A2%E8%83%BD%E5%90%A6%E4%BD%BF%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E7%AD%89.md)
